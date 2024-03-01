@@ -41,15 +41,16 @@ SCSS is used for styling in this project. To utilize SCSS in your components, fo
 
 1. Create a new SCSS file for your component or page, for example, `MyComponent.scss`.
 
-2. Import the SCSS file into your component or page TypeScript file, for example, `MyComponent.tsx`:
+2. Import the CSS file into your component or page TypeScript file, for example, `MyComponent.tsx`:
 
     ```typescript
-    import './MyComponent.scss';
+    import './MyComponent.css';
     ```
 
 3. Write your styles in the SCSS file using SCSS syntax.
 
 4. Use the styles in your component's JSX code as usual.
+
 
 ## Visual Studio Code Extensions
 

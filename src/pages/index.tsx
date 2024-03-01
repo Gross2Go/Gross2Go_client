@@ -1,1 +1,6 @@
 export {default as Home } from "./Home/Home"
+export {default as NotFound } from "./SpecialPages/NotFound"
+export {default as ComingSoon } from "./SpecialPages/ComingSoon"
+export {default as Users } from "./Users/Users"
+export {default as UserDetails } from "./Users/Detail/Detail"
+export {default as UserList } from "./Users/List/UserList"
